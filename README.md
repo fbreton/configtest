@@ -1,1 +1,2 @@
 # configtest
+test
